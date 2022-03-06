@@ -32,3 +32,10 @@ html {
     display: none;
 }
 
+body {
+     font-family: 'Poppins', sans-serif;   
+     background: var(--color-bg);
+     color: var(--color-white);
+     line-height: 1.7;
+    background-image: none;
+}
