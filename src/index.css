@@ -37,5 +37,10 @@ body {
      background: var(--color-bg);
      color: var(--color-white);
      line-height: 1.7;
-    background-image: none;
+     background-image: none;
+}
+
+.container {
+    width: var(--container-width-lg);
+    margin: 0 auto;
 }
