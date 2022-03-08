@@ -1,6 +1,7 @@
 import React from "react";
 import "./Header.css";
 import CTA from "./CTA";
+import ME from "../../assets/me.jpg";
 
 const Header = () => {
   return (
@@ -10,6 +11,9 @@ const Header = () => {
         <h1>Deshan Vimukthi</h1>
         <h5 className="text-light">Frontend Developer</h5>
         <CTA />
+        <div className="me">
+          <img src="" alt="" />
+        </div>
       </div>
     </header>
   );
