@@ -35,11 +35,9 @@ header {
 }
 
 .me {
-    background: var(--color-primary);
-    width: 22rem;
+    width:22rem;
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
+    margin-top: 5rem;
 }
