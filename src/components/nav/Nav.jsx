@@ -4,6 +4,7 @@ import { TiHomeOutline } from "react-icons/ti";
 import { AiOutlineProfile } from "react-icons/ai";
 import { HiOutlinePresentationChartLine } from "react-icons/hi";
 import { RiServiceLine } from "react-icons/ri";
+import { IoIosContact } from "react-icons/io";
 
 const Nav = () => {
   return (
@@ -13,6 +14,7 @@ const Nav = () => {
         <AiOutlineProfile />
         <HiOutlinePresentationChartLine />
         <RiServiceLine />
+        <IoIosContact />
       </a>
     </nav>
   );
