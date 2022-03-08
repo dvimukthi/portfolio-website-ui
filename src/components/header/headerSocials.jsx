@@ -1,7 +1,11 @@
 import React from "react";
 
 const headerSocials = () => {
-  return <div>headerSocials</div>;
+  return (
+    <div className="header__socials">
+      <a href="https://linkedin.com" target={blank}></a>
+    </div>
+  );
 };
 
 export default headerSocials;
