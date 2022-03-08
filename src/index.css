@@ -109,6 +109,8 @@ img {
     object-fit: cover;
 }
 
+/* medium devices */
+
 @media screen and (max-width: 1024px) {
     .container {
         width: var(--container-width-md);
@@ -116,5 +118,17 @@ img {
 
     section {
         margin-top: 5rem;
+    }
+}
+
+/* small devices */
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: var(--container-width-md);
+    }
+
+    section > h2 {
+        margin-bottom: 2rem;
     }
 }
