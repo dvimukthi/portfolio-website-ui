@@ -11,9 +11,17 @@ const Nav = () => {
     <nav>
       <a href="#">
         <TiHomeOutline />
+      </a>
+      <a href="#About">
         <AiOutlineProfile />
+      </a>
+      <a href="#Experience">
         <HiOutlinePresentationChartLine />
+      </a>
+      <a href="#Services">
         <RiServiceLine />
+      </a>
+      <a href="#Contact">
         <IoIosContact />
       </a>
     </nav>
@@ -21,5 +29,3 @@ const Nav = () => {
 };
 
 export default Nav;
-
-//1;11;36
