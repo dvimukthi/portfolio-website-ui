@@ -5,8 +5,10 @@ import { AiOutlineProfile } from "react-icons/ai";
 import { HiOutlinePresentationChartLine } from "react-icons/hi";
 import { RiServiceLine } from "react-icons/ri";
 import { IoIosContact } from "react-icons/io";
+import { useState } from "react";
 
 const Nav = () => {
+  const [activeNav, setActiveNav] = useState("#");
   return (
     <nav>
       <a href="#" className="active">
