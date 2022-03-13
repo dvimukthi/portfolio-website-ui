@@ -25,7 +25,11 @@ const Nav = () => {
       >
         <AiOutlineProfile />
       </a>
-      <a href="#Experience">
+      <a
+        href="#Experience"
+        onClick={() => setActiveNav("#Experience")}
+        className={activeNav === "#Experience" ? "active" : ""}
+      >
         <HiOutlinePresentationChartLine />
       </a>
       <a href="#Services">
