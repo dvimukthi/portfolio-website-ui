@@ -32,7 +32,11 @@ const Nav = () => {
       >
         <HiOutlinePresentationChartLine />
       </a>
-      <a href="#Services">
+      <a
+        href="#Services"
+        onClick={() => setActiveNav("#Services")}
+        className={activeNav === "#Services" ? "active" : ""}
+      >
         <RiServiceLine />
       </a>
       <a href="#Contact">
