@@ -18,7 +18,11 @@ const Nav = () => {
       >
         <TiHomeOutline />
       </a>
-      <a href="#About">
+      <a
+        href="#About"
+        onClick={() => setActiveNav("#About")}
+        className={activeNav === "#About" ? "active" : ""}
+      >
         <AiOutlineProfile />
       </a>
       <a href="#Experience">
