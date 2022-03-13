@@ -9,7 +9,7 @@ import { IoIosContact } from "react-icons/io";
 const Nav = () => {
   return (
     <nav>
-      <a href="#">
+      <a href="#" className="active">
         <TiHomeOutline />
       </a>
       <a href="#About">
