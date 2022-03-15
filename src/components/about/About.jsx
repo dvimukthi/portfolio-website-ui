@@ -23,6 +23,11 @@ const About = () => {
               <h5>Experience</h5>
               <small>1+ years working</small>
             </article>
+            <article className="about__card">
+              <FiUsers className="about__icon" />
+              <h5>Clients</h5>
+              <small>100+ worldwide</small>
+            </article>
           </div>
         </div>
       </div>
