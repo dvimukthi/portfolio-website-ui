@@ -29,6 +29,11 @@ const About = () => {
               <h5>Clients</h5>
               <small>100+ worldwide</small>
             </article>
+            <article className="about__card">
+              <BsFolderCheck className="about__icon" />
+              <h5>Projects</h5>
+              <small>25+ Complete Projects</small>
+            </article>
           </div>
         </div>
       </div>
