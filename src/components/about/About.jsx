@@ -40,6 +40,9 @@ const About = () => {
             providing high-impact web solutions for diverse industry
             organizations.
           </p>
+          <a href="#Contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
