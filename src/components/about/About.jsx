@@ -35,6 +35,11 @@ const About = () => {
               <small>25+ Complete Projects</small>
             </article>
           </div>
+          <p>
+            Creative Front-End Developer offering 1+ years of experience
+            providing high-impact web solutions for diverse industry
+            organizations.
+          </p>
         </div>
       </div>
     </section>
