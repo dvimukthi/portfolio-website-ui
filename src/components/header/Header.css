@@ -59,7 +59,7 @@ header {
     }
 }
 
-/* medium devices */
+/* small devices */
 
 @media screen and (max-width: 600px) {
     .container {
