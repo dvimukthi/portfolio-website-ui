@@ -18,6 +18,7 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <h5>Experience</h5>
+              <small>1+ years working</small>
             </article>
           </div>
         </div>
