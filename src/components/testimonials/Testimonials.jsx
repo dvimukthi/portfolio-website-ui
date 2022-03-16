@@ -1,5 +1,6 @@
 import React from "react";
 import "./Testimonials.css";
+import AVTR1 from "../../assets/avatar1.jpg";
 
 const Testimonials = () => {
   return (
@@ -8,7 +9,9 @@ const Testimonials = () => {
       <h2>Testimonials</h2>
       <div className="container testimonials__container">
         <article className="testimonials">
-          <div className="client__avatar"></div>
+          <div className="client__avatar">
+            <img src="" alt="" />
+          </div>
         </article>
       </div>
     </section>
