@@ -10,13 +10,17 @@ const Portfolio = () => {
         <article className="portfolio__item">
           <div className="portfolio__item-image"></div>
           <h3>Portfolio item title</h3>
-          <a href="https://github.com/dvimukthi/website-UI" className="btn">
+          <a
+            href="https://github.com/dvimukthi/website-UI"
+            className="btn"
+            target="_blank"
+          >
             Github
           </a>
           <a
             href="https://github.com/dvimukthi/website-UI"
             className="btn btn-primary"
-            target={blank}
+            target="_blank"
           >
             Live Demo
           </a>
