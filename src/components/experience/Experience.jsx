@@ -22,6 +22,11 @@ const Experience = () => {
               <h4>CSS</h4>
               <small className="text-light">Experienced</small>
             </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill />
+              <h4>Javascript</h4>
+              <small className="text-light">Experienced</small>
+            </article>
           </div>
         </div>
         <div className="experience__backend"></div>
