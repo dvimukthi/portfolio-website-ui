@@ -32,6 +32,17 @@ const Testimonials = () => {
             </small>
           </div>
         </article>
+        <article className="testimonials">
+          <div className="client__avatar">
+            <img src={AVTR3} alt="Avatar two" />
+            <h5 className="client__name">Tom Ryan</h5>
+            <small className="client__review">
+              Very neat work. Was forward and honest with his knowledge. Helped
+              me understand what I did t understand before to get my project
+              working again.
+            </small>
+          </div>
+        </article>
       </div>
     </section>
   );
