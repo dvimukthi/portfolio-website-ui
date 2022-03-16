@@ -36,6 +36,11 @@ const Services = () => {
             </li>
           </ul>
         </article>
+        <article className="service">
+          <div className="services__head">
+            <h3>Web Development</h3>
+          </div>
+        </article>
       </div>
     </section>
   );
