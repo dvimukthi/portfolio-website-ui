@@ -40,7 +40,6 @@ const Portfolio = () => {
             <img src={IMG2} alt="" />
           </div>
           <h3>NFT Website</h3>
-
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/dvimukthi/"
@@ -62,7 +61,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>Portfolio item title</h3>
+          <h3>Educational Website</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/dvimukthi/"
