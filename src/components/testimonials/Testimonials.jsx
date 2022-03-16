@@ -5,6 +5,7 @@ const Testimonials = () => {
   return (
     <section id="Testimonials">
       <h5>Review From Clients</h5>
+      <h2>Testimonials</h2>
     </section>
   );
 };
