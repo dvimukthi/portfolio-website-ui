@@ -80,6 +80,10 @@ const Services = () => {
               <BiCheck className="service__list-icon" />
               <p>Copy Typing</p>
             </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Article Writing</p>
+            </li>
           </ul>
         </article>
       </div>
