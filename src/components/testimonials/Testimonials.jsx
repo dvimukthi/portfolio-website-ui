@@ -3,6 +3,7 @@ import "./Testimonials.css";
 import AVTR1 from "../../assets/avatar1.jpg";
 import AVTR2 from "../../assets/avatar2.png";
 import AVTR3 from "../../assets/avatar3.jpg";
+import AVTR4 from "../../assets/avatar4.png";
 
 const Testimonials = () => {
   return (
