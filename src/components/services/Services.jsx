@@ -20,19 +20,19 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>User research</p>
+              <p>User Research</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Visual design</p>
+              <p>Visual Design</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Design research</p>
+              <p>Design Research</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>UI prototyping</p>
+              <p>UI Prototyping</p>
             </li>
           </ul>
         </article>
@@ -51,7 +51,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Responsive design</p>
+              <p>Responsive Design</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -82,7 +82,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Article Writing</p>
+              <p>Translation</p>
             </li>
           </ul>
         </article>
