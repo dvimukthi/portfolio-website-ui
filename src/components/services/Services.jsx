@@ -67,6 +67,12 @@ const Services = () => {
           <div className="services__head">
             <h3>Content Creation</h3>
           </div>
+          <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Web Research</p>
+            </li>
+          </ul>
         </article>
       </div>
     </section>
