@@ -16,6 +16,7 @@ const Portfolio = () => {
           <a
             href="https://github.com/dvimukthi/website-UI"
             className="btn btn-primary"
+            target={blank}
           >
             Live Demo
           </a>
