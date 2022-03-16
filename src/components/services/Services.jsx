@@ -40,6 +40,12 @@ const Services = () => {
           <div className="services__head">
             <h3>Web Development</h3>
           </div>
+          <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Testing web applications</p>
+            </li>
+          </ul>
         </article>
       </div>
     </section>
