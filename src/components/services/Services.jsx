@@ -7,7 +7,9 @@ const Services = () => {
       <h5>What I Offer</h5>
       <h2>Services</h2>
 
-      <div className="container services__container"></div>
+      <div className="container services__container">
+        <article className="service"></article>
+      </div>
     </section>
   );
 };
