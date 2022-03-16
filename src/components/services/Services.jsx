@@ -63,6 +63,11 @@ const Services = () => {
             </li>
           </ul>
         </article>
+        <article className="service">
+          <div className="services__head">
+            <h3>Content Creation</h3>
+          </div>
+        </article>
       </div>
     </section>
   );
