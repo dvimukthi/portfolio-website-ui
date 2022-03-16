@@ -14,44 +14,48 @@ const Testimonials = () => {
         <article className="testimonials">
           <div className="client__avatar">
             <img src={AVTR1} alt="Avatar one" />
-            <h5 className="client__name">John Smith</h5>
-            <small className="client__review">
-              From start to finished, they were extremely professional and
-              delivered the task in less than an hour. I will return to them
-              with more tasks very soon.
-            </small>
           </div>
+          <h5 className="client__name">John Smith</h5>
+          <small className="client__review">
+            From start to finished, they were extremely professional and
+            delivered the task in less than an hour. I will return to them with
+            more tasks very soon.
+          </small>
         </article>
         <article className="testimonials">
           <div className="client__avatar">
             <img src={AVTR2} alt="Avatar two" />
-            <h5 className="client__name">Hannna Backer</h5>
-            <small className="client__review">
-              Thank you for your great work! Everything working as expected, and
-              I am excited to do more projects with you.
-            </small>
           </div>
+          <h5 className="client__name">Hannna Backer</h5>
+          <small className="client__review">
+            Thank you for your great work! Everything working as expected, and I
+            am excited to do more projects with you.
+          </small>
         </article>
         <article className="testimonials">
           <div className="client__avatar">
-            <img src={AVTR3} alt="Avatar two" />
-            <h5 className="client__name">Tom Ryan</h5>
-            <small className="client__review">
-              Very neat work. Was forward and honest with his knowledge. Helped
-              me understand what I did t understand before to get my project
-              working again.
-            </small>
+            <img
+              src={AVTR3}
+              alt="Avatar three
+            "
+            />
           </div>
+          <h5 className="client__name">Tom Ryan</h5>
+          <small className="client__review">
+            Very neat work. Was forward and honest with his knowledge. Helped me
+            understand what I did t understand before to get my project working
+            again.
+          </small>
         </article>
         <article className="testimonials">
           <div className="client__avatar">
-            <img src={AVTR4} alt="Avatar two" />
-            <h5 className="client__name">Shane Gibbs</h5>
-            <small className="client__review">
-              He is very professional. He is understanding requirements very
-              good and made everything fast.
-            </small>
+            <img src={AVTR4} alt="Avatar four" />
           </div>
+          <h5 className="client__name">Shane Gibbs</h5>
+          <small className="client__review">
+            He is very professional. He is understanding requirements very good
+            and made everything fast.
+          </small>
         </article>
       </div>
     </section>
