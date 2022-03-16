@@ -14,7 +14,9 @@ const Services = () => {
             <h3>UI/UX Design</h3>
           </div>
           <ul className="service__list">
-            <li></li>
+            <li>
+              <BiCheck className="service__list-icon" />
+            </li>
           </ul>
         </article>
       </div>
