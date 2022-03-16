@@ -19,14 +19,34 @@ const Portfolio = () => {
           </div>
           <h3>Portfolio item title</h3>
           <a
-            href="https://github.com/dvimukthi/website-UI"
+            href="https://github.com/dvimukthi/"
             className="btn"
             target="_blank"
           >
             Github
           </a>
           <a
-            href="https://github.com/dvimukthi/website-UI"
+            href="https://github.com/dvimukthi/"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            Live Demo
+          </a>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG2} alt="" />
+          </div>
+          <h3>Portfolio item title</h3>
+          <a
+            href="https://github.com/dvimukthi/"
+            className="btn"
+            target="_blank"
+          >
+            Github
+          </a>
+          <a
+            href="https://github.com/dvimukthi/"
             className="btn btn-primary"
             target="_blank"
           >
