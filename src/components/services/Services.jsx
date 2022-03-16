@@ -9,7 +9,9 @@ const Services = () => {
 
       <div className="container services__container">
         <article className="service">
-          <div className="services__head"></div>
+          <div className="services__head">
+            <h3>UI/UX Design</h3>
+          </div>
         </article>
       </div>
     </section>
