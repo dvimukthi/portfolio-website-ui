@@ -14,7 +14,9 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
       <div className="container portfolio__container">
         <article className="portfolio__item">
-          <div className="portfolio__item-image"></div>
+          <div className="portfolio__item-image">
+            <img src={IMG1} alt="" />
+          </div>
           <h3>Portfolio item title</h3>
           <a
             href="https://github.com/dvimukthi/website-UI"
