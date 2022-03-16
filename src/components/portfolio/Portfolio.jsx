@@ -18,120 +18,132 @@ const Portfolio = () => {
             <img src={IMG1} alt="" />
           </div>
           <h3>Portfolio item title</h3>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn"
-            target="_blank"
-          >
-            Github
-          </a>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn btn-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn"
+              target="_blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
           <h3>Portfolio item title</h3>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn"
-            target="_blank"
-          >
-            Github
-          </a>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn btn-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn"
+              target="_blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
           <h3>Portfolio item title</h3>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn"
-            target="_blank"
-          >
-            Github
-          </a>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn btn-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn"
+              target="_blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
           </div>
           <h3>Portfolio item title</h3>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn"
-            target="_blank"
-          >
-            Github
-          </a>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn btn-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn"
+              target="_blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
           </div>
           <h3>Portfolio item title</h3>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn"
-            target="_blank"
-          >
-            Github
-          </a>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn btn-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn"
+              target="_blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG6} alt="" />
           </div>
           <h3>Portfolio item title</h3>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn"
-            target="_blank"
-          >
-            Github
-          </a>
-          <a
-            href="https://github.com/dvimukthi/"
-            className="btn btn-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn"
+              target="_blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://github.com/dvimukthi/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
       </div>
     </section>
