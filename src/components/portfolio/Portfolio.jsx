@@ -53,6 +53,26 @@ const Portfolio = () => {
             Live Demo
           </a>
         </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG3} alt="" />
+          </div>
+          <h3>Portfolio item title</h3>
+          <a
+            href="https://github.com/dvimukthi/"
+            className="btn"
+            target="_blank"
+          >
+            Github
+          </a>
+          <a
+            href="https://github.com/dvimukthi/"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            Live Demo
+          </a>
+        </article>
       </div>
     </section>
   );
