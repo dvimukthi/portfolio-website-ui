@@ -67,6 +67,11 @@ const Experience = () => {
               <h4>MySQL</h4>
               <small className="text-light">Experienced</small>
             </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill />
+              <h4>Java</h4>
+              <small className="text-light">Experienced</small>
+            </article>
           </div>
         </div>
       </div>
