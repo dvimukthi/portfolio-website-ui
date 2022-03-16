@@ -43,6 +43,16 @@ const Testimonials = () => {
             </small>
           </div>
         </article>
+        <article className="testimonials">
+          <div className="client__avatar">
+            <img src={AVTR4} alt="Avatar two" />
+            <h5 className="client__name">Shane Gibbs</h5>
+            <small className="client__review">
+              He is very professional. He is understanding requirements very
+              good and made everything fast.
+            </small>
+          </div>
+        </article>
       </div>
     </section>
   );
