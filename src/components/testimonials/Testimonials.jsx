@@ -14,6 +14,7 @@ const Testimonials = () => {
         <article className="testimonials">
           <div className="client__avatar">
             <img src={AVTR1} alt="Avatar one" />
+            <h5>John Smith</h5>
           </div>
         </article>
       </div>
