@@ -13,7 +13,7 @@ const Testimonials = () => {
       <div className="container testimonials__container">
         <article className="testimonials">
           <div className="client__avatar">
-            <img src="" alt="" />
+            <img src={AVTR1} alt="Avatar one" />
           </div>
         </article>
       </div>
