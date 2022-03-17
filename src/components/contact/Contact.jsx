@@ -10,6 +10,7 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
+            <MdOutlineEmail />
             <h4>Email</h4>
             <h5>example@gmail.com</h5>
             <a href="mailto:example@gmal.com">Send a message</a>
