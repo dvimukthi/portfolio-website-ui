@@ -1,5 +1,6 @@
 import React from "react";
 import "./Contact.css";
+import { MdOutlineEmail } from "react-icons/md";
 
 const Contact = () => {
   return (
@@ -11,7 +12,7 @@ const Contact = () => {
           <article className="contact__option">
             <h4>Email</h4>
             <h5>example@gmail.com</h5>
-            <a href="mailto:example@gmal.com"></a>
+            <a href="mailto:example@gmal.com">Send a message</a>
           </article>
         </div>
         <form action=""></form>
