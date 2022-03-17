@@ -15,19 +15,25 @@ const Contact = () => {
             <MdOutlineEmail />
             <h4>Email</h4>
             <h5>example@gmail.com</h5>
-            <a href="mailto:example@gmal.com">Send a message</a>
+            <a href="mailto:example@gmal.com" target="_blank">
+              Send a message
+            </a>
           </article>
           <article className="contact__option">
             <BsFacebook />
             <h4>Facebook</h4>
             <h5>Deshan Vimukthi</h5>
-            <a href="https://www.facebook.com/">Send a message</a>
+            <a href="https://www.facebook.com/" target="_blank">
+              Send a message
+            </a>
           </article>
           <article className="contact__option">
             <FiInstagram />
             <h4>Instagram</h4>
             <h5>Deshan</h5>
-            <a href="https://www.instagram.com/">Send a message</a>
+            <a href="https://www.instagram.com/" target="_blank">
+              Send a message
+            </a>
           </article>
         </div>
         <form action=""></form>
