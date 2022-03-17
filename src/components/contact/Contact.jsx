@@ -1,6 +1,7 @@
 import React from "react";
 import "./Contact.css";
 import { MdOutlineEmail } from "react-icons/md";
+import { BsFacebook } from "react-icons/bs";
 
 const Contact = () => {
   return (
@@ -14,6 +15,12 @@ const Contact = () => {
             <h4>Email</h4>
             <h5>example@gmail.com</h5>
             <a href="mailto:example@gmal.com">Send a message</a>
+          </article>
+          <article className="contact__option">
+            <BsFacebook />
+            <h4>Facebook</h4>
+            <h5>Deshan Vimukthi/</h5>
+            <a href="https://www.facebook.com/">Send a message</a>
           </article>
         </div>
         <form action=""></form>
