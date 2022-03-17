@@ -10,6 +10,7 @@ const Contact = () => {
         <div className="contact__options">
           <article className="contact__option"></article>
         </div>
+        <form action=""></form>
       </div>
     </section>
   );
