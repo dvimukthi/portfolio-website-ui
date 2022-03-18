@@ -7,6 +7,11 @@ const footer = () => {
       <a href="#" className="footer__logo">
         Logo
       </a>
+      <ul className="permalinks">
+        <li>
+          <a href="#">Home</a>
+        </li>
+      </ul>
     </footer>
   );
 };
