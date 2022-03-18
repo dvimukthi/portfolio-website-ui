@@ -29,3 +29,12 @@ footer a {
     margin-bottom: 4rem;
     color: var(--color-bg);
 }
+
+/* small devices */
+
+@media screen and (max-width: 600px) {
+    .permalinks {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+}
