@@ -30,6 +30,9 @@ const footer = () => {
           <a href="#Contact">Contact</a>
         </li>
       </ul>
+      <div className="footer__copyright">
+        <small>&copy; Deshan. All rights reserved</small>
+      </div>
     </footer>
   );
 };
