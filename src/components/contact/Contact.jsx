@@ -12,7 +12,7 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
-            <MdOutlineEmail />
+            <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>example@gmail.com</h5>
             <a href="mailto:example@gmal.com" target="_blank">
@@ -20,7 +20,7 @@ const Contact = () => {
             </a>
           </article>
           <article className="contact__option">
-            <BsFacebook />
+            <BsFacebook className="contact__option-icon" />
             <h4>Facebook</h4>
             <h5>Deshan Vimukthi</h5>
             <a href="https://www.facebook.com/" target="_blank">
@@ -28,7 +28,7 @@ const Contact = () => {
             </a>
           </article>
           <article className="contact__option">
-            <FiInstagram />
+            <FiInstagram className="contact__option-icon" />
             <h4>Instagram</h4>
             <h5>Deshan</h5>
             <a href="https://www.instagram.com/" target="_blank">
