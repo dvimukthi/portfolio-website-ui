@@ -36,9 +36,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Creative Front-End Developer offering 1+ years of experience
-            providing high-impact web solutions for diverse industry
-            organizations.
+            Passionate full stack developer with 1+ years of hands on experience
+            in developing scalable websites using wide range of front-end and
+            back-end skills. Developed 25+ websites from scratch at scaler.
           </p>
           <a href="#Contact" className="btn btn-primary">
             Let's Talk
